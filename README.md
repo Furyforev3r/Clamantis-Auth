@@ -16,3 +16,9 @@ npm install
 npm run dev
 ```
 **- Acess the application in the browser: `http://localhost:PORT`**
+
+# 🗄️Databases:
++ **Firebase Firestore.**
+
+[![Database Icon](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+
